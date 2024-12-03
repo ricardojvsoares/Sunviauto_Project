@@ -82,5 +82,12 @@ This project showcases the development, optimization, and integration of interac
 
 ---
 
-# ***For obvious reasons there is no data within the project***
+## **Important Notice**
+
+### **Data Protection Disclaimer**  
+- For **data protection reasons**, the project does not include actual business data.  
+- Some SQL queries and DAX expressions have been **modified or anonymized** to comply with confidentiality requirements.  
+
+This ensures the integrity of sensitive business information while still showcasing the project's structure and functionality.
+
  
