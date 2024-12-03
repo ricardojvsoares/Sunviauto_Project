@@ -78,5 +78,9 @@ This project showcases the development, optimization, and integration of interac
 - Open `.pbix` files in **Power BI Desktop** and interact with the visualizations.  
 
 ### **Update Data**  
-- Use the **Refresh** button in Power BI to fetch the latest data from connected sources.  
+- Use the **Refresh** button in Power BI to fetch the latest data from connected sources.
+
+---
+
+#For obvious reasons there is no data within the project
  
