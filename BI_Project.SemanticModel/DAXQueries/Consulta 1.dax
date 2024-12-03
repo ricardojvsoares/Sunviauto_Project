@@ -1,0 +1,20 @@
+// =================
+// Operation       : 3 
+// Visual          : Fat. 
+// Query Start     : 11/11/2024 10:59:14
+// Query End       : 11/11/2024 10:59:14
+// Render Start    : 11/11/2024 10:59:15 
+// Render End      : 11/11/2024 10:59:15
+// Query Duration  : 9 ms
+// Render Duration : 14 ms
+// Total Duration  : 23 ms
+// Row Count       : 1
+// =================
+DEFINE VAR __DS0FilterTable = 
+	FILTER(
+		KEEPFILTERS(VALUES('Data'[DATA])),
+		AND('Data'[DATA] >= DATE(2022, 3, 11), 'Data'[DATA] < DATE(2025, 1, 1))
+	)
+
+EVALUATE
+	SUMMARIZECOLUMNS(__DS0FilterTable, "Fat_", IGNORE('_MEDIDAS'[Fat.]))

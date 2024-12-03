@@ -1,0 +1,48 @@
+{
+  "build": "13.0.1700.762",
+  "version": "1.0.4",
+  "author": {
+    "name": "Collabion",
+    "email": "support@collabion.com"
+  },
+  "licenseTerms": "http://go.microsoft.com/fwlink/?LinkID=627540",
+  "privacyTerms": "http://www.collabion.com/privacy-policy/",
+  "resources": [
+    {
+      "resourceId": "rId1",
+      "sourceType": 0,
+      "file": "resources/Pie3DChartbyCollabion.js"
+    },
+    {
+      "resourceId": "rId2",
+      "sourceType": 1,
+      "file": "resources/Pie3DChartbyCollabion.css"
+    },
+    {
+      "resourceId": "rId3",
+      "sourceType": 3,
+      "file": "resources/icon.png"
+    }
+  ],
+  "visual": {
+    "guid": "CollabionPie1482191307239",
+    "name": "Pie 3D Chart by Collabion",
+    "displayName": "Pie 3D Chart by Collabion",
+    "version": "1.0.4",
+    "description": "A pie 3D chart, just like the name suggests, has a circular structure, with lines running perpendicular to its circumference, dividing it into sections having thicknesses directly proportional to their respective values. It presents data in the form of percentages, with the entire chart representing 100%. A pie 3D chart built with Collabion Charts for SharePoint lets you visualize the entire data in the form of a circular structure. You can use the _rotation capability_ to turn the chart on a horizontal axis in a clockwise or anticlockwise direction, in order to get a better view of any of the segments. The _slice out capability_ lets you click on any of the segments to highlight it. If you have another chart within the same dashboard that is built with the same data set or a linked one, then slice out will also filter the data in the other chart according to the data of the sliced out segment and update its visuals.",
+    "supportUrl": "http://www.collabion.com/contact-support/"
+  },
+  "images": {
+    "icon": {
+      "resourceId": "rId3"
+    }
+  },
+  "code": {
+    "javaScript": {
+      "resourceId": "rId1"
+    },
+    "css": {
+      "resourceId": "rId2"
+    }
+  }
+}

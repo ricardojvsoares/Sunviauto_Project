@@ -1,0 +1,637 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 814.50517373645926,
+        "y": 120738.25145850741
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1030.7973406929607,
+            "y": 120653.87508193697
+          },
+          "nodeIndex": "_MEDIDAS",
+          "nodeLineageTag": "5a1947c9-9ae4-422a-93f2-ac0db94adcc6",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 29,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 2443.7843866479561,
+            "y": 121611.40532900277
+          },
+          "nodeIndex": "Artigo",
+          "nodeLineageTag": "af9bc69d-5158-48bf-b3e4-2f66062dfc72",
+          "size": {
+            "height": 451.2800002690974,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 2848.4033274337853,
+            "y": 121533.0811073799
+          },
+          "nodeIndex": "Armazem",
+          "nodeLineageTag": "84d00f81-e927-4006-a317-157d497c0e68",
+          "size": {
+            "height": 300,
+            "width": 204.40487856157415
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 1042.0645904919077,
+            "y": 121575.10356516918
+          },
+          "nodeIndex": "Cliente",
+          "nodeLineageTag": "7de329ed-3598-4804-b520-4266bfee76f1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 1401.8467712157851,
+            "y": 122103.60920407731
+          },
+          "nodeIndex": "Fornecedor",
+          "nodeLineageTag": "ba5ef8e2-c0c7-4b4a-8fc5-7b27535fcad4",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 44
+        },
+        {
+          "location": {
+            "x": 3481.9130458958803,
+            "y": 121350.90575668582
+          },
+          "nodeIndex": "ORÇGERAL",
+          "nodeLineageTag": "cde5bf5b-43b7-4d2d-b72f-05ea9e4ebd8b",
+          "size": {
+            "height": 328.52155743562207,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 3462.1736719245073,
+            "y": 120979.42943676937
+          },
+          "nodeIndex": "ORÇKAMS",
+          "nodeLineageTag": "2c2fb251-7c60-4b2a-800b-9aec20ee4c74",
+          "size": {
+            "height": 314.95638365107277,
+            "width": 234
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 1032.6143615070137,
+            "y": 120748.11168418423
+          },
+          "nodeIndex": "UltimoRefresh",
+          "nodeLineageTag": "3be21150-55e9-44de-9b75-6fb7d9f2fc2c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 30,
+          "expandedHeight": 145
+        },
+        {
+          "location": {
+            "x": 1742.4273250439276,
+            "y": 120516.33943986055
+          },
+          "nodeIndex": "AcresDif",
+          "nodeLineageTag": "d1d6a680-eec0-4795-bd91-aec4f4d14ae0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 1421.41315150627,
+            "y": 120727.37230865835
+          },
+          "nodeIndex": "MapaENC",
+          "nodeLineageTag": "750b5122-8ef7-4c6c-a675-bc6b2606ebac",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 2322.6649630834381,
+            "y": 120555.67965703027
+          },
+          "nodeIndex": "Data",
+          "nodeLineageTag": "f3c398e9-eee4-43c1-adcd-b0bf22d6a7f5",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 41,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1437.1316116425332,
+            "y": 121119.55079622427
+          },
+          "nodeIndex": "Mapa Dotacao",
+          "nodeLineageTag": "1846b5cb-7ee9-4e19-ae63-6a5f8d2217c3",
+          "size": {
+            "height": 269.4531450862944,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 1367.1068063152768,
+            "y": 121493.77903854498
+          },
+          "nodeIndex": "GrupoCliente",
+          "nodeLineageTag": "e5904254-7477-4638-b692-e3b69402cf78",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 2538.8791948042563,
+            "y": 122466.28168205926
+          },
+          "nodeIndex": "GrupoMaterial",
+          "nodeLineageTag": "10e93121-2ed3-4d3c-81bd-8c6eea2113a7",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 2088.1069591942764,
+            "y": 122664.39280717314
+          },
+          "nodeIndex": "TiposProveito",
+          "nodeLineageTag": "885056bb-3093-4723-b42e-23aa381e3c58",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 3238.5724276855713,
+            "y": 120576.17074220194
+          },
+          "nodeIndex": "UnidadeNegocio",
+          "nodeLineageTag": "a2629173-60e0-441d-a214-f579b27ec9c9",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 2393.6022215335574,
+            "y": 122686.48667984578
+          },
+          "nodeIndex": "CategoriaProduto",
+          "nodeLineageTag": "f622ff6e-555d-4a21-8541-920f69f43488",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 1944.301057995141,
+            "y": 122504.57270990181
+          },
+          "nodeIndex": "ClasseProduto",
+          "nodeLineageTag": "e3b00239-5c34-441f-b40a-9f978578c3a5",
+          "size": {
+            "height": 145,
+            "width": 268.28086806999409
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 2682.8808068948692,
+            "y": 122665.79033986255
+          },
+          "nodeIndex": "FamiliaArtigo",
+          "nodeLineageTag": "2f6600b2-b18e-4f5d-8712-2394b5850d3c",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 2809.8677273638309,
+            "y": 122490.36701405735
+          },
+          "nodeIndex": "GrupoProduto",
+          "nodeLineageTag": "d180b34d-58dd-4b88-9ed8-0ce77dddbab7",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1025.7419911050636,
+            "y": 122096.52803437467
+          },
+          "nodeIndex": "Pais",
+          "nodeLineageTag": "5d6dac33-4f16-4c77-b4fb-58543eea1356",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 13,
+          "expandedHeight": 405.87767123932429
+        },
+        {
+          "location": {
+            "x": 2266.2685000401871,
+            "y": 122491.99338089552
+          },
+          "nodeIndex": "CC",
+          "nodeLineageTag": "3f540a36-8b92-40cc-877b-a4c920b80aaf",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 45
+        },
+        {
+          "location": {
+            "x": 3503.5916569671012,
+            "y": 121763.99103526608
+          },
+          "nodeIndex": "ExistenciaArmazem",
+          "nodeLineageTag": "db6b4f3f-e629-4d55-8b93-dce5dd994c95",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1693.3829598298778,
+            "y": 121775.75762155125
+          },
+          "nodeIndex": "VendaExpedicaoCliente",
+          "nodeLineageTag": "a0202c48-ff28-46fe-b163-73a1607190cf",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 33
+        },
+        {
+          "location": {
+            "x": 3156.8233552039337,
+            "y": 122021.56380063138
+          },
+          "nodeIndex": "MovArmazem",
+          "nodeLineageTag": "c597fea8-d1e2-48c4-8bbf-572016d61021",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 42
+        },
+        {
+          "location": {
+            "x": 2820.1174747527393,
+            "y": 121187.76725922164
+          },
+          "nodeIndex": "StockTotalizado",
+          "nodeLineageTag": "ec62a0dd-234a-414f-ad44-0c4fb9e1a2a9",
+          "size": {
+            "height": 219.55706374957867,
+            "width": 206.86965243090162
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 1419.4112053933918,
+            "y": 122513.54359716567
+          },
+          "nodeIndex": "CabecalhoPedFirme",
+          "nodeLineageTag": "a8fe6878-86c0-49be-a86b-d781ea9835cd",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 1679.6802598898144,
+            "y": 122674.08109400098
+          },
+          "nodeIndex": "CabecalhoPedProv",
+          "nodeLineageTag": "30b0fbaa-f8fa-4612-b8e8-76ac695055c3",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1797.6175393231467,
+            "y": 122148.17012379415
+          },
+          "nodeIndex": "PedidoCliente",
+          "nodeLineageTag": "45f6cf4f-012c-4b0e-be28-4a3e2a6c29e5",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 46
+        },
+        {
+          "location": {
+            "x": 1304.2349961623358,
+            "y": 121947.40905025852
+          },
+          "nodeIndex": "TipoDocumento",
+          "nodeLineageTag": "f69b7f60-ea2c-43b6-bc18-ecd48a3efd71",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 1694.8746991526534,
+            "y": 121494.0014952952
+          },
+          "nodeIndex": "SLDA",
+          "nodeLineageTag": "bb644447-4f0b-4c74-b782-df1d0b7288ed",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 3714.7985543036261,
+            "y": 122470.65188370348
+          },
+          "nodeIndex": "MovProdOF",
+          "nodeLineageTag": "baa48eec-8fb4-4f17-ae4a-0c8b311c9104",
+          "size": {
+            "height": 364.30425505420681,
+            "width": 234
+          },
+          "zIndex": 37
+        },
+        {
+          "location": {
+            "x": 3425.8271330176894,
+            "y": 122494.554938419
+          },
+          "nodeIndex": "OrdemFabrico",
+          "nodeLineageTag": "1271b51a-7784-487b-8b6c-16df65fa9f25",
+          "size": {
+            "height": 315.2665334800372,
+            "width": 234
+          },
+          "zIndex": 36
+        },
+        {
+          "location": {
+            "x": 3455.6802048771815,
+            "y": 122952.53427182548
+          },
+          "nodeIndex": "PostoTrabalho",
+          "nodeLineageTag": "9f0f9df8-ca9f-42f4-90b2-7a21bfe637a3",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 35
+        },
+        {
+          "location": {
+            "x": 2676.2337363352258,
+            "y": 120271.92105817329
+          },
+          "nodeIndex": "DSP_EventRecords",
+          "nodeLineageTag": "4cb24b04-2a0f-49c2-8bbe-3158a89d9e84",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 38
+        },
+        {
+          "location": {
+            "x": 2353.5601604147496,
+            "y": 120230.5768405862
+          },
+          "nodeIndex": "DSP_Lines",
+          "nodeLineageTag": "73a4def4-ac54-4cc1-a37b-685a5bada575",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 43
+        },
+        {
+          "location": {
+            "x": 3078.2570033003785,
+            "y": 120219.7785221285
+          },
+          "nodeIndex": "DSP_Shifts",
+          "nodeLineageTag": "ca7e82fc-304e-4790-b5b5-3546bf6a3586",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 2061.8471397388657,
+            "y": 121018.66581559475
+          },
+          "nodeIndex": "Inclusões/Exclusões",
+          "nodeLineageTag": "1136a231-eab9-44e4-b12f-7f20d9eb912b",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 40
+        },
+        {
+          "location": {
+            "x": 1029.3916194197977,
+            "y": 120567.30018456106
+          },
+          "nodeIndex": "Imagens",
+          "nodeLineageTag": "3b37c3e9-5960-4bef-8684-20f8ac69dc8a",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 8,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 2049.6432858629732,
+            "y": 120225.58760808926
+          },
+          "nodeIndex": "PlcValueChangesTimeCalcFunc",
+          "nodeLineageTag": "17f6fcda-3481-4fca-8b1a-47b9ecdacba3",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1646.9852105454875,
+            "y": 120263.61569998565
+          },
+          "nodeIndex": "PLC",
+          "nodeLineageTag": "1fd0279a-53b1-450a-8a34-f9fb112e89a1",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 39
+        },
+        {
+          "location": {
+            "x": 2655.9187689863593,
+            "y": 120731.08880209964
+          },
+          "nodeIndex": "Feriados GHR",
+          "nodeLineageTag": "3e668f87-7080-4776-9d58-85f9f51d9570",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1019.6587300785391,
+            "y": 120408.59239404509
+          },
+          "nodeIndex": "Roles",
+          "nodeLineageTag": "97dffa4a-ccfc-496f-8092-3903a7fc01f5",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1409.1398242250871,
+            "y": 120504.24523356912
+          },
+          "nodeIndex": "ArtigoExcluir",
+          "nodeLineageTag": "0c9263ef-55b7-423f-88de-fa8e927a703c",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 3100.4367408588132,
+            "y": 122475.99152415572
+          },
+          "nodeIndex": "Artigo45-99",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 3015.0285737053064,
+            "y": 122707.76209680556
+          },
+          "nodeIndex": "ListaPecas",
+          "nodeLineageTag": "0d457c59-31d8-40d6-9cb8-5797d15727fe",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 959.13982422508707,
+            "y": 122328.085666354
+          },
+          "nodeIndex": "AvaliacaoFornecedor",
+          "nodeLineageTag": "7828f0e1-9652-4a2a-ad3e-8163d65ed2a1",
+          "size": {
+            "height": 268.05171587064979,
+            "width": 234
+          },
+          "zIndex": 47
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 27.99245570830119,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
