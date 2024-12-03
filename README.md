@@ -79,18 +79,4 @@ This project showcases the development, optimization, and integration of interac
 
 ### **Update Data**  
 - Use the **Refresh** button in Power BI to fetch the latest data from connected sources.  
-
----
-
-## **Project Documentation**  
-
-Documentation is available in the `docs/` folder, including:  
-
-- **Setup Instructions**:  
-  Step-by-step guide for configuring data connections.  
-
-- **Maintenance Guide**:  
-  Tips for troubleshooting and updating dashboards.  
-
-- **Technical Details**:  
-  Insights into **SQL queries**, **DAX formulas**, and **ETL workflows**.  
+ 
